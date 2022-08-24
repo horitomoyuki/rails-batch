@@ -23,3 +23,7 @@ Things you may want to cover:
 
 * ...
 # rails-batch
+
+/usr/local/bin/mysql -h 127.0.0.1 --port 3307 -u root -p batch_dev
+
+MYSQL_PORT=3307 bin/rails
